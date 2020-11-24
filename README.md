@@ -3,7 +3,7 @@
 
 ## Steps to Run the project:
 1. Clone the project:
-   - https://github.com/pushkar0806/node-goodworklabs.git
+   - git clone https://github.com/pushkar0806/node-goodworklabs.git
    
 2. Install required dependencies:
    - ``` npm install ```
