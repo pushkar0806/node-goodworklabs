@@ -11,7 +11,7 @@
 3. Run the project:
    - ``` npm run dev ```
    
-** How to Use ** <br />
+**How to Use** <br />
 Visiting API _http://localhost:8000/get_meta_data/finance/collect_ : <br />
 :+1: will look for the json file under the *finance* directory for the collect.json file and print us the output
 
