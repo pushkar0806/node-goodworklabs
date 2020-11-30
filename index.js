@@ -12,7 +12,7 @@ app.use('/get_meta_data', routes);
 
 const PORT = process.env.PORT || 8000;
 app.listen(PORT, function() {
-    console.log(`App running on port ${PORT}`);
+    console.log(`Application running on port ${PORT}`);
 });
 
 module.exports = app;
